@@ -5,17 +5,13 @@
   },
   "name": "uv-app",
   "version": "1.0.0",
-  "description": "Ultraviolet instance",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "prestart": "npm install",
     "start": "node ."
   },
-  "keywords": [
-    "proxy",
-    "DM unbl0cker"
-  ],
   "author": "",
   "license": "GPL-3.0-or-later"
 }
